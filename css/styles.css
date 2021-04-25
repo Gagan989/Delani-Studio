@@ -89,22 +89,68 @@ header>.container>.mouse {
     font-size: 24px;
     text-align: center;
     text-transform: uppercase;
-  }
+}
   
-  .whatimages{
+.whatimages{
     text-align: center;
     padding-top: 3%;
     padding-bottom: 3%;
-  }
+}
   
-  #designp,#devp, #productp{
+#designp,#devp, #productp{
     display: none;
     text-align: center;
-  }
+}
   
-  #designp h1,#devp h1, #productp h1{
+#designp h1,#devp h1, #productp h1{
     font-weight: bold;
-  }
+}
+
+.portfolio h1{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top:3%;
+}
+  
+.portfolio img{
+  width:100%;
+  height: auto;
+}
+  
+.imgoverlay1,.imgoverlay2, .imgoverlay3,.imgoverlay4,.imgoverlay5,.imgoverlay6,.imgoverlay7,.imgoverlay8{
+    width:90%;
+    color:white;
+    height:97%;
+    position: absolute;
+    top:0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display:none;
+}
+  
+.port1{
+    padding-top:3%;
+}
+  
+img.w-100 {
+    padding-bottom: 3%;
+}
+.overlaycontent,.overlaycontent1,.overlaycontent2,.overlaycontent3,.overlaycontent4,.overlaycontent5,.overlaycontent6,.overlaycontent7{
+  
+   width:90%;
+   margin-top: 4%;
+   margin-left: 5%;
+   height: 90%;
+   position: relative;
+   border: 5px solid white;
+}
+  
+.imgoverlay1 h1,.imgoverlay2 h1,.imgoverlay3 h1,.imgoverlay4 h1,.imgoverlay5 h1,.imgoverlay6 h1,.imgoverlay7 h1,.imgoverlay8 h1{
+      padding-top: 3%;
+      text-align: left;
+      font-weight: 800px;
+      font-size: 30px
+}
+   
 
 
 
