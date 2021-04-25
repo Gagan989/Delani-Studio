@@ -84,15 +84,27 @@ header>.container>.mouse {
     align-items: center;
     margin-bottom: 20px;
 }
- 
-#designs,#development, #productmanagement{
+
+.whatwedo h1{
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .whatimages{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+  
+  #designp,#devp, #productp{
     display: none;
     text-align: center;
-}
+  }
   
-#designs h1,#development h1, #productmanagement h1{
+  #designp h1,#devp h1, #productp h1{
     font-weight: bold;
-}
+  }
 
 
 
