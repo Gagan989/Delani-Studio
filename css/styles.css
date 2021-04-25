@@ -67,5 +67,7 @@ header>.container>.mouse {
     justify-content: center;
     margin: 30px;
 }
-
+#about>.container>.row>.a-text{
+    padding: 10px;
+  }
 
