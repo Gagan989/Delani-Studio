@@ -63,6 +63,9 @@ header>.container>.mouse {
         transform: translateY(-45px);
       }
 }
-
+#about {
+    justify-content: center;
+    margin: 30px;
+}
 
 
