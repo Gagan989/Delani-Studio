@@ -67,7 +67,23 @@ header>.container>.mouse {
     justify-content: center;
     margin: 30px;
 }
-#about>.container>.row>.a-text{
+#about>.container.row>.paragraph {
     padding: 10px;
-  }
+    margin-bottom: 20px;
+}
+#service {
+    padding-top: 20px;
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
 
