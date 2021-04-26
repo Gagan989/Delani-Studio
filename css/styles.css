@@ -166,7 +166,6 @@ header>.container>.mouse {
   .contactus{
     width:100%;
     background-image: url("../assets/backgrounds/c_image.jpg");
-    background-size: cover;
   }
   
   .contactus h1{
@@ -185,7 +184,7 @@ header>.container>.mouse {
   .button{
     padding-bottom: 8%;
   }
-  /* footer */
+  
   .footer{
     padding-top: 5%;
   }

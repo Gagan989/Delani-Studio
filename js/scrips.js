@@ -15,7 +15,7 @@ $(document).ready(function(){
          $(overlay[indexofwrap]).hide();
      })
      })
-}):
+})
 
 $("#contactus").submit(function() {
     var nameInput = $("input#name").val();
@@ -26,5 +26,6 @@ $("#contactus").submit(function() {
     alert(nameInput + " we have received your message. Thank you for reaching out to us.");
 
   })
-})
+
+
 
