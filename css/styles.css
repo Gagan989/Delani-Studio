@@ -163,6 +163,45 @@ header>.container>.mouse {
       font-size: 30px
   
   }
+  .contactus{
+    width:100%;
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-size: cover;
+  }
+  
+  .contactus h1{
+    color:white;
+    text-align:center;
+    padding-top: 5%;
+    padding-bottom: 3%;
+  }
+  
+  .form-control{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    color:white;
+  }
+  
+  .button{
+    padding-bottom: 8%;
+  }
+  /* footer */
+  .footer{
+    padding-top: 5%;
+  }
+  
+  .footer .social img{
+    padding-left: 1%;
+  }
+  .social{
+    padding-bottom: 3%;
+  
+  }
+  
+  .rights{
+    font-weight: bold;
+  }
+  
    
 
 
